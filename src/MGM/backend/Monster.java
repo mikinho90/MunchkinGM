@@ -1,4 +1,4 @@
-package munichkinGM.backend;
+package MGM.backend;
 
 public class Monster {
 
